@@ -1,0 +1,32 @@
+body {
+background: linear-gradient(#00ff6a 0%, #d8fa78 100%);
+}
+#logo {
+border-radius: 50%;
+}
+h1 {
+font-family: fantasy;
+Text-shadow: 2px 2px #F8BBD0;
+font-size: 50px;
+}
+#login {
+background-color: dodgerblue;
+font-size: larger;
+color: white;
+width: 150px;
+height: 70px;
+border: lightskyblue ridge 5px;
+cursor: pointer;
+
+}
+.login_div
+{
+	background: white;float: none;border-radius: 15px;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
+#gh {
+border-radius: 10%;
+}
